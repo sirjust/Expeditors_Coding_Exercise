@@ -1,0 +1,6 @@
+C:\Users\SirJUST\source\repos\Expeditors_Coding_Exercise\Expeditors_Coding_Exercise\bin\Debug\Expeditors_Coding_Exercise.exe.config
+C:\Users\SirJUST\source\repos\Expeditors_Coding_Exercise\Expeditors_Coding_Exercise\bin\Debug\Expeditors_Coding_Exercise.exe
+C:\Users\SirJUST\source\repos\Expeditors_Coding_Exercise\Expeditors_Coding_Exercise\bin\Debug\Expeditors_Coding_Exercise.pdb
+C:\Users\SirJUST\source\repos\Expeditors_Coding_Exercise\Expeditors_Coding_Exercise\obj\Debug\Expeditors_Coding_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\source\repos\Expeditors_Coding_Exercise\Expeditors_Coding_Exercise\obj\Debug\Expeditors_Coding_Exercise.exe
+C:\Users\SirJUST\source\repos\Expeditors_Coding_Exercise\Expeditors_Coding_Exercise\obj\Debug\Expeditors_Coding_Exercise.pdb
